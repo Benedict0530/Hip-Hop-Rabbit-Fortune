@@ -19436,7 +19436,7 @@ function getProfileVar(a) {
     return null == loadedProfile ? null : loadedProfile.hasOwnProperty(a) ? loadedProfile[a] : null
 };
 var GameData = function() {};
-GameData.BuildTitle = "Hip-Hop Rabbit Fortune";
+GameData.BuildTitle = "Hip-Hop Rabbit Beats";
 GameData.BuildString = "08.24.2024 16:07";
 GameData.BuildDebug = !1;
 GameData.CreditsStaff = "Unique Hub Gaming 2024";
